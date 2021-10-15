@@ -11,5 +11,5 @@ npm install @types/googlemaps": "^3.43.3",
 node_module klasörünü çok fazla dosya içerdiği için yüklemedim... 
 
 Projenin içeriği: Google Apisini kullanarak önce İstanbul  extende yerleştirildi.
-Daha sonra istanbul da 4 bölgenin işaretli olarak gelmesini sağlandı.. 
+Daha sonra istanbul da 4 bölgenin işaretli olarak gelmesi sağlandı.. 
 Marker lara tıklanınca bilgisi görüntülenmektedir. 
